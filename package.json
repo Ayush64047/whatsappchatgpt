@@ -18,7 +18,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/OnlineHacking",
+  "base": "https://github.com/Ayush64047",
   "author": "harshitethic",
   "license": "MIT",
   "dependencies": {
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OnlineHacKing/Whatsapp-ChatGPT.git"
+    "url": "git+https://github.com/Ayush64047/whatsappchatgpt.git"
   },
   "bugs": {
-    "url": "https://github.com/OnlineHacKing/Whatsapp-ChatGPT/issues"
+    "url": "https://github.com/Ayush64047/whatsappchatgpt/issues"
   },
-  "homepage": "https://github.com/OnlineHacKing/Whatsapp-ChatGPT#readme"
+  "homepage": "https://github.com/Ayush64047/whatsappchatgpt#readme"
 }
